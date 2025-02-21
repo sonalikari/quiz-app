@@ -25,6 +25,14 @@ A modern, interactive quiz application built with **React & Tailwind CSS**, feat
 git clone https://github.com/sonalikari/quiz-app.git
 cd quiz-app
 ```
+### 2️⃣ Install dependencies
+```sh
+npm install
+```
+### 3️⃣ Start the App:
+```sh
+npm start
+```
 
 ## 🌍 Live Demo
 - **🔗 Deployed App:** https://quiz-app-u1vs.onrender.com/
